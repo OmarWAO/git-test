@@ -1,3 +1,2 @@
 # git-test
-First of hopefully many
-Hello Odin!
+First of hopefully many. Hello Odin!
